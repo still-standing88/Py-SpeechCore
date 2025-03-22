@@ -28,6 +28,7 @@ SC_VOICE_CONFIG = 1 << 2
 SC_FILE_OUTPUT = 1 << 3
 SC_HAS_SPEECH = 1 << 4
 SC_HAS_BRAILLE = 1 << 5
+SC_HAS_SPEECH_STATE = 1<<6
 
 
 def CheckInit(func):

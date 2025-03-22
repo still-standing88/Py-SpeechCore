@@ -98,7 +98,7 @@ class postCleanup(bdist_wheel):
 
 setup(
     name='SpeechCore',
-    version='1.0.0',
+    version='1.0.1',
     description='A python wrapper for the speech_core library',
     long_description=get_readme(),
     long_description_content_type='text/markdown',
